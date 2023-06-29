@@ -5,6 +5,7 @@
 # Suicide in India from 2001 to 2012: Visualizations using Tableau
 WEBSITE LINK - https://suicides-in-india-visualization.pages.dev/
 
+DEMONSTRATION LINK - https://drive.google.com/drive/folders/1S9gcdJGkPWMJINRJBw5IL24ZFFyXDWat?usp=sharing
 ***
 
 ### ABSTRACT                                                                                                                                          
@@ -256,14 +257,6 @@ https://public.tableau.com/shared/85Z3H4GC5?:display_count=n&:origin=viz_share_l
 https://public.tableau.com/views/DashBoard-2_16878910452980/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:device=desktop
 
 ***
-
-
-DEMONSTRATION LINK
-
-https://drive.google.com/drive/folders/1S9gcdJGkPWMJINRJBw5IL24ZFFyXDWat?usp=sharing
-
-***
-
 
 CONTRIBUTORS:
 
